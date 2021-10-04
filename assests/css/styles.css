@@ -219,6 +219,8 @@ Từ ngoài vào trong -> Từ trên xuống dưới => Tổng quan đến chi t
 #slider .text-description {
     font-size: 15px;
     margin-top: 25px;
+    /* gia tri 0 0: shadow ko bi do sang trai hoac phai */
+    text-shadow: 0 0 1px #000;  
 }
 
 #content {
